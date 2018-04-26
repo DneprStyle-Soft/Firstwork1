@@ -1,0 +1,23 @@
+{
+  "name": "project-itvdn1",
+  "version": "1.0.0",
+  "description": "(first project on github)",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.0-alpha.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DneprStyle-Soft/Firstwork1.git"
+  },
+  "author": "Grigorash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DneprStyle-Soft/Firstwork1/issues"
+  },
+  "homepage": "https://github.com/DneprStyle-Soft/Firstwork1#readme"
+}
